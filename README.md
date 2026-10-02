@@ -34,4 +34,14 @@ Trivian Institute develops educational public goods. Trivian Technologies develo
 
 ## Participate and status
 
-See [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). Contact **learn@trivianinstitute.org**. Three modules are drafted; nine domains remain planned, and none is represented as a tested standard. Public-content licensing awaits approval; no open reuse license is granted by this README. Cross-repository links name the intended Institute home and may remain unavailable until migration and merge.
+See [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). Contact **learn@trivianinstitute.org**. Three modules are drafted; nine domains remain planned, and none is represented as a tested standard.  Cross-repository links name the intended Institute home and may remain unavailable until migration and merge.
+
+## License
+
+Except where otherwise noted, the educational materials and documentation in this repository are licensed under [Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/). See [LICENSE](LICENSE) for the full terms, including the disclaimer of warranties.
+
+You may share and adapt these materials, including commercially, with appropriate credit, a license link, and an indication of changes. Shared adaptations must use the same or a compatible license as specified in the legal code.
+
+For attribution, identify this project, Trivian Institute, and any named creators or contributors; retain supplied notices and link to [this repository](https://github.com/TrivianInstitute/interaction-literacy). Credit does not imply endorsement or certification.
+
+This license covers the materials included here. It does not license external works merely linked or cited, Trivian Technologies implementations, or the separate Ahava Way certification curriculum. Patent and trademark rights are not granted. Licensing does not transfer copyright ownership; existing rights holders retain their rights.

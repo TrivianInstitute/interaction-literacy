@@ -20,7 +20,7 @@ Use plain language and define necessary terms. Offer alternatives to speech, wri
 
 Submit original material you are authorized to share. Do not copy copyrighted passages, images, private curricula, or identifiable personal data without the appropriate permission. Cite sources instead of reproducing them. Do not submit Trivian Technologies implementation material or Ahava Way certification sequencing, proprietary assisted-stretch methods, assessment materials, or instructor training architecture.
 
-A public-content license has not yet been approved. This contribution guide grants no license and requests no copyright assignment. Before accepting third-party content, maintainers must resolve the permissions needed to publish and later license it with its contributor. Public visibility is not a blanket permission for reuse. Direct reuse questions to learn@trivianinstitute.org.
+The educational materials and documentation are licensed under [CC BY-SA 4.0](LICENSE), except where otherwise noted. For new contributions, confirm in your pull request that you are authorized to provide the material under CC BY-SA 4.0. Contributors retain their copyright; no copyright assignment is requested. Before accepting third-party material, maintainers must verify its permissions and clearly identify any separate terms. External works merely linked or cited are not relicensed. Direct reuse questions to learn@trivianinstitute.org.
 
 ## AI-assisted contribution disclosure
 

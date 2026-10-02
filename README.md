@@ -34,7 +34,7 @@ Trivian Institute develops educational public goods. Trivian Technologies develo
 
 ## Participate and status
 
-See [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). Contact **learn@trivianinstitute.org**. Three modules are drafted; nine domains remain planned, and none is represented as a tested standard.  Cross-repository links name the intended Institute home and may remain unavailable until migration and merge.
+See [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). Contact **learn@trivianinstitute.org**. Three modules are drafted; nine domains remain planned, and none is represented as a tested standard. The linked Institute repositories are live. For age-responsive activities, see [Youth Interaction Literacy](https://github.com/TrivianInstitute/youth-interaction-literacy); for facilitation plans, see [Educator Commons](https://github.com/TrivianInstitute/educator-commons).
 
 ## License
 

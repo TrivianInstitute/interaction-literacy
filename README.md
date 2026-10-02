@@ -25,6 +25,7 @@ Read [Foundations](FOUNDATIONS.md) for the conceptual frame, or start directly w
 - [Assessment rubric](assessments/reasoning-rubric.md): assess reasoning, not doctrinal agreement.
 - [90-minute workshop](workshops/first-encounter.md) and [three-session syllabus](syllabi/three-session-introduction.md).
 - [Glossary](glossary/README.md), [reading](resources/reading.md), and [curriculum roadmap](curriculum/README.md).
+- [Youth Interaction Literacy](youth/README.md): an adult companion guide and activities for ages 10–12, 13–15, and 16–18. Draft resources work without a book or live AI account.
 
 ## Across the Commons
 

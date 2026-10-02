@@ -9,3 +9,5 @@ This initial draft was generated with OpenAI ChatGPT/Codex assistance on 2026-10
 Sources are further-reading anchors or support for narrowly stated claims, not endorsements of the Commons. No Trivian Technologies repository implementation was consulted or copied. These materials do not distribute the paid Ahava Way certification curriculum.
 
 Before release: human review of content and permissions; teaching and accessibility feedback. Report corrections to learn@trivianinstitute.org.
+
+Youth pathway addition (2026-10-01, America/Los_Angeles): a standalone companion guide and three age-responsive activities were drafted with OpenAI ChatGPT/Codex assistance. The unpublished book manuscript, illustrations, and excerpts are not part of this repository. These youth materials await review with educators, caregivers, youth, and accessibility specialists; no pilot or effectiveness claim is made.

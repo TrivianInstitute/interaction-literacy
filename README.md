@@ -8,6 +8,8 @@ For independent learners, educators, libraries, universities, community programs
 
 ## Begin now
 
+New to AI? Start with [Understanding AI in Everyday Life](orientation/README.md), a four-lesson orientation to recognizing AI, understanding how responses are produced, examining data and incentives, and considering people affected by a service. Each lesson includes an offline activity and response guidance. Bring the ideas together in a reusable [workbook](orientation/workbook.md).
+
 Have 20 minutes? Try [the interaction map](exercises/interaction-map.md). Have an hour? Choose one complete module:
 
 | Module | Question | Time | Takeaway |
@@ -20,6 +22,7 @@ Read [Foundations](FOUNDATIONS.md) for the conceptual frame, or start directly w
 
 ## Navigate
 
+- [Understanding AI in Everyday Life](orientation/README.md): a beginner pathway into the interaction curriculum.
 - [Exercises](exercises/README.md): printable activities with offline materials.
 - [Facilitator guide](facilitator-guides/running-a-session.md): participation, pacing, and disagreement.
 - [Assessment rubric](assessments/reasoning-rubric.md): assess reasoning, not doctrinal agreement.
@@ -30,11 +33,13 @@ Read [Foundations](FOUNDATIONS.md) for the conceptual frame, or start directly w
 
 Apply delegation reasoning to [The Manager Who Delegated Judgment](https://github.com/TrivianInstitute/relational-ai-casebook/blob/main/cases/case-004-manager/scenario.md). The casebook develops judgment through unresolved fictional situations. Optional [decision pauses](https://github.com/TrivianInstitute/embodiment-commons/blob/main/practices/03-decision-pause.md) support noticing one's condition before reasoning; they do not validate a decision.
 
+Explore attention, movement, breath, and rest in [Embodied Digital Life](https://github.com/TrivianInstitute/embodiment-commons/tree/main/courses/embodied-digital-life). The [Commons learning route](https://github.com/TrivianInstitute/educator-commons/blob/main/pathways/ai-literacy-and-embodied-digital-life.md) connects both pathways with existing modules, dialogue, cases, and a shared transfer activity.
+
 Trivian Institute develops educational public goods. Trivian Technologies develops technical architecture, protocols, software, and deployable systems. This curriculum distributes no TRIA implementation and does not certify technical or professional competence.
 
 ## Participate and status
 
-See [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). Contact **learn@trivianinstitute.org**. Three modules are drafted; nine domains remain planned, and none is represented as a tested standard. The linked Institute repositories are live. For age-responsive activities, see [Youth Interaction Literacy](https://github.com/TrivianInstitute/youth-interaction-literacy); for facilitation plans, see [Educator Commons](https://github.com/TrivianInstitute/educator-commons).
+See [Contributing](CONTRIBUTING.md), [community expectations](CODE_OF_CONDUCT.md), and [editorial status](EDITORIAL_STATUS.md). Contact **learn@trivianinstitute.org**. Four orientation lessons and three interaction modules are drafted. Dedicated modules in several later domains remain planned; see the [curriculum map](curriculum/README.md). None is represented as a tested standard. For age-responsive activities, see [Youth Interaction Literacy](https://github.com/TrivianInstitute/youth-interaction-literacy); for facilitation plans, see [Educator Commons](https://github.com/TrivianInstitute/educator-commons).
 
 ## License
 
